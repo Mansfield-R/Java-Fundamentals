@@ -38,7 +38,7 @@ Most coding challenges will be from Tim Buchalka's course on
 - [X] Section 2: Software Tools Setup
 - [X] Section 3: First Steps
 - [X] Section 4: Expressions, Statements, Code Blocks, Methods
-- [ ] Section 5: Control Flow Statements
+- [X] Section 5: Control Flow Statements
 - [ ] Section 6: OOPS: Part 1 - Classes, Constructors and Inheritance
 - [ ] Section 7: OOPS: Part 2 - Composition, Encapsulation, and Polymorphism
 - [ ] Section 8: Arrays, Java inbuilt Lists, Autoboxing and Unboxing
