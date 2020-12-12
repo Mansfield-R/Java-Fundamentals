@@ -1,7 +1,4 @@
-package com.section6.Inheritance;
-
-import com.section6.Inheritance.Animal.Animal;
-import com.section6.Inheritance.Animal.Dog;
+package com.section6.Inheritance.Animal;
 
 public class Main {
 
