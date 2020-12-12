@@ -1,6 +1,6 @@
 package com.section6;
 
-public class Main {
+public class BankAccountMain {
 
     public static void main(String[] args) {
 
