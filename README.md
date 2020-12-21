@@ -40,7 +40,7 @@ Most coding challenges will be from Tim Buchalka's course on
 - [X] ~~Section 4: Expressions, Statements, Code Blocks, Methods~~
 - [X] ~~Section 5: Control Flow Statements~~
 - [X] ~~Section 6: OOPS: Part 1 - Classes, Constructors and Inheritance~~
-- [ ] Section 7: OOPS: Part 2 - Composition, Encapsulation, and Polymorphism
+- [X] ~~Section 7: OOPS: Part 2 - Composition, Encapsulation, and Polymorphism~~
 - [ ] Section 8: Arrays, Java inbuilt Lists, Autoboxing and Unboxing
 - [ ] Section 9: Inner and Abstract Classes & Interfaces
 - [ ] Section 10: Java Generics
